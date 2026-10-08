@@ -15,7 +15,7 @@ Feito em Rust puro, funciona nativamente em macOS, Windows e Linux e também no 
 
 Selecione em Editar ▸ Idioma da Interface ▸ Português (Brasil).
 
-PR #103 (tradução pt-BR) aberto no upstream.
+PR #103 já foi MESCLADO no upstream — a interface em pt-BR é oficial.
 
 ## A suíte ArtCraft
 
